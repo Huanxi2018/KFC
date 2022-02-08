@@ -1,4 +1,4 @@
-# Python-
+# KFC-
 Crawling KFC restaurant information by python crawler.
 Remember create a paralleling folder named Data for KFC.py firstly！
 The following screenshots are the results.
